@@ -1,0 +1,11 @@
+The science of fake news
+Addressing fake news requires a multidisciplinary effort
+David Lazer, Matthew Baum, Yochai Benkler, Adam Berinsky, Kelly Greenhill, Filippo Menczer, Miriam Metzger, Brendan Nyhan, Gordon Pennycook, David Rothschild, Michael Schudson, Steven Sloman, Cass Sunstein, Emily Thorson, Duncan Watts, Jonathan Zittrain
+
+- WHAT IS FAKE NEWS?
+- THE HISTORICAL SETTING
+- PREVALENCE AND IMPACT
+- POTENTIAL INTERVENTIONS
+	- Empowering individuals
+	- Platform-based detection and intervention: Algorithms and bots
+- A FUTURE AGENDA
