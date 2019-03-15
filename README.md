@@ -13,7 +13,7 @@ Tracking tools for defending the information ecosystem in the disinformation war
 3. [The Fight Against Disinformation in the U.S.: A Landscape Analysis](https://shorensteincenter.org/the-fight-against-disinformation-in-the-u-s-a-landscape-analysis/)
 <br/>Heidi Legg and Joe Kerwin. 2018.
 4. [GetOldTweets-python](https://github.com/Jefferson-Henrique/GetOldTweets-python)
-4. [The science of fake news]()
+4. [The science of fake news](http://science.sciencemag.org/content/359/6380/1094)
    <br/> David Lazer, Matthew Baum, Yochai Benkler, Adam Berinsky, Kelly Greenhill, Filippo Menczer, Miriam Metzger, Brendan Nyhan, Gordon Pennycook, David Rothschild, Michael Schudson, Steven Sloman, Cass Sunstein, Emily Thorson, Duncan Watts, Jonathan Zittrain
 4. [Shorenstein Center Misinformation Project](https://shorensteincenter.org/about-us/areas-of-focus/misinformation/)
 5. [Tackling Domestic Disinformation](https://issuu.com/nyusterncenterforbusinessandhumanri/docs/nyu_domestic_disinformation_digital?e=31640827/68184927)
