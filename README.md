@@ -22,7 +22,7 @@ Tracking tools for defending the information ecosystem in the disinformation war
 ## Log
 03/15/2019
 - Reading:
-  * The science of fake news](http://science.sciencemag.org/content/359/6380/1094)
+  * [The science of fake news](http://science.sciencemag.org/content/359/6380/1094)
 
 03/09/2019
 - Reading:
