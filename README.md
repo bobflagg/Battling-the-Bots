@@ -16,6 +16,8 @@ Tracking tools for defending the information ecosystem in the disinformation war
 4. [The science of fake news](http://science.sciencemag.org/content/359/6380/1094)
    <br/> David Lazer, Matthew Baum, Yochai Benkler, Adam Berinsky, Kelly Greenhill, Filippo Menczer, Miriam Metzger, Brendan Nyhan, Gordon Pennycook, David Rothschild, Michael Schudson, Steven Sloman, Cass Sunstein, Emily Thorson, Duncan Watts, Jonathan Zittrain
 4. [Shorenstein Center Misinformation Project](https://shorensteincenter.org/about-us/areas-of-focus/misinformation/)
+4. [A Survey on Natural Language Processing for Fake News Detection](https://arxiv.org/abs/1811.00770)
+   <br/>Ray Oshikawa, Jing Qian, William Yang Wang. 2018
 5. [Tackling Domestic Disinformation](https://issuu.com/nyusterncenterforbusinessandhumanri/docs/nyu_domestic_disinformation_digital?e=31640827/68184927)
 <br/>PAUL M. BARRETT
 
