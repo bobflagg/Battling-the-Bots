@@ -13,6 +13,10 @@ Tracking tools for defending the information ecosystem in the disinformation war
 3. [The Fight Against Disinformation in the U.S.: A Landscape Analysis](https://shorensteincenter.org/the-fight-against-disinformation-in-the-u-s-a-landscape-analysis/)
 <br/>Heidi Legg and Joe Kerwin. 2018.
 4. [GetOldTweets-python](https://github.com/Jefferson-Henrique/GetOldTweets-python)
+4. [Predicting Factuality of Reporting and Bias of News Media Sources](https://arxiv.org/pdf/1810.01765.pdf)
+   <br/>Ramy Baly, Georgi Karadzhov, Dimitar Alexandrov, James Glass, Preslav Nakov. 2018
+   <br/>**Code**: [News-Media-Reliability](https://github.com/ramybaly/News-Media-Reliability)
+4. [These projects are using AI to fight misinformation](https://www.poynter.org/fact-checking/2019/these-projects-are-using-ai-to-fight-misinformation/)
 4. [The science of fake news](http://science.sciencemag.org/content/359/6380/1094)
    <br/> David Lazer, Matthew Baum, Yochai Benkler, Adam Berinsky, Kelly Greenhill, Filippo Menczer, Miriam Metzger, Brendan Nyhan, Gordon Pennycook, David Rothschild, Michael Schudson, Steven Sloman, Cass Sunstein, Emily Thorson, Duncan Watts, Jonathan Zittrain
 4. [Shorenstein Center Misinformation Project](https://shorensteincenter.org/about-us/areas-of-focus/misinformation/)
