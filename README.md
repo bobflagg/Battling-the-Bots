@@ -23,6 +23,9 @@ Tracking tools for defending the information ecosystem in the disinformation war
 4. [The science of fake news](http://science.sciencemag.org/content/359/6380/1094)
    <br/> David Lazer, Matthew Baum, Yochai Benkler, Adam Berinsky, Kelly Greenhill, Filippo Menczer, Miriam Metzger, Brendan Nyhan, Gordon Pennycook, David Rothschild, Michael Schudson, Steven Sloman, Cass Sunstein, Emily Thorson, Duncan Watts, Jonathan Zittrain
 4. [Shorenstein Center Misinformation Project](https://shorensteincenter.org/about-us/areas-of-focus/misinformation/)
+4. [The spread of true and false news online](http://ide.mit.edu/sites/default/files/publications/2017%20IDE%20Research%20Brief%20False%20News.pdf)
+   <br/>Soroush Vosoughi, Deb Roy, and Sinan Aral. 2017.
+   <br/>**Supplementary Materials**:[The spread of true and false news online](http://science.sciencemag.org/content/sci/suppl/2018/03/07/359.6380.1146.DC1/aap9559_Vosoughi_SM.pdf)
 4. [A Survey on Natural Language Processing for Fake News Detection](https://arxiv.org/abs/1811.00770)
    <br/>Ray Oshikawa, Jing Qian, William Yang Wang. 2018
 5. [Tackling Domestic Disinformation](https://issuu.com/nyusterncenterforbusinessandhumanri/docs/nyu_domestic_disinformation_digital?e=31640827/68184927)
