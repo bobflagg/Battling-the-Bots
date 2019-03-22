@@ -13,6 +13,8 @@ Tracking tools for defending the information ecosystem in the disinformation war
 3. [Fake-News-Corpus](https://github.com/abhinavchdhry/Fake-News-Corpus)
 3. [Getting Real about Fake News](https://www.kaggle.com/mrisdal/fake-news)
 3. [How Google Fights Disinformation](https://storage.googleapis.com/gweb-uniblog-publish-prod/documents/HowGoogleFightsDisinformation.pdf?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)
+3. [Influence of fake news in Twitter during the 2016 US presidential election](https://www.researchgate.net/publication/323956688_Influence_of_fake_news_in_Twitter_during_the_2016_US_presidential_election)
+   <br/>Alexandre Bovet and Hernán A. Makse. 2019.
 3. [Information Disorder: Toward an interdisciplinary framework for research and policymaking](https://shorensteincenter.org/wp-content/uploads/2017/10/PREMS-162317-GBR-2018-Report-de%CC%81sinformation.pdf?x78124)
    <br/>Claire Wardle and Hossein Derakhshan with research support from Anne Burns and Nic Dias. September 27, 2017
 3. [International Fact-Checking Network](https://www.poynter.org/ifcn/)
