@@ -3,6 +3,24 @@ Tracking tools for defending the information ecosystem in the disinformation war
 
 ## Resources
 
+    A. **Tools**
+        1. [How to Analyze Twitter Data with MAXQDA: 2018 US Midterm Election Tweets](MAXQDA)
+        2. Belgian Shepherd
+            1. Malinois
+            2. Groenendael
+            3. Tervuren
+2. Cat
+    1. Siberian
+    2. Siamese
+
+I think this is as close as you can get; Markdown doesn't support the "1.1.1" type list you wanted
+
+
+## Resources
+    - ### Tools
+        * [How to Analyze Twitter Data with MAXQDA: 2018 US Midterm Election Tweets](MAXQDA)
+
+## Resources
 1. [Acquiring Background Knowledge to Improve Moral Value Prediction]()
    <br/>Ying Lin, Joe Hoover†, Gwenyth Portillo-Wightman, Christina Park, Morteza Dehghani and Heng Ji
    <br/>**Code**: [Moral Value Prediction](https://github.com/limteng-rpi/mvp)
