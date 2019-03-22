@@ -10,9 +10,12 @@ Tracking tools for defending the information ecosystem in the disinformation war
     - Dessert?
         - Wookie Pie
 - **Projects**
-- **Survey Papers**
-- **Research Papers**
+- **Surveys**
     1. [Awesome Fake News](https://github.com/sumeetkr/AwesomeFakeNews)
+- **Research Papers**
+    1. [Influence of fake news in Twitter during the 2016 US presidential election](http://www.nature.com/articles/s41467-018-07761-2)
+       <br/>A. Bovet and H. A. Makse. 2019
+       <br/>**Code**:[Information-Diffusion](https://github.com/alexbovet/information_diffusion)
 
 ## Resources
 
