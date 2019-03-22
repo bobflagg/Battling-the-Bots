@@ -1,6 +1,19 @@
 # Battling-the-Bots
 Tracking tools for defending the information ecosystem in the disinformation war
 
+- **Tools**
+    1. [How to Analyze Twitter Data with MAXQDA: 2018 US Midterm Election Tweets](MAXQDA)
+    2. Don't mention the youngling "thing"
+- **Blog Posts**
+    - [We Gave You 3 Million Russian Troll Tweets. Here’s What You’ve Found So Far](https://fivethirtyeight.com/features/what-you-found-in-3-million-russian-troll-tweets/)
+    - **Bring Pepto**
+    - Dessert?
+        - Wookie Pie
+- **Projects**
+- **Survey Papers**
+- **Research Papers**
+    1. [Awesome Fake News](https://github.com/sumeetkr/AwesomeFakeNews)
+
 ## Resources
 
     A. **Tools**
@@ -17,14 +30,10 @@ I think this is as close as you can get; Markdown doesn't support the "1.1.1" ty
 
 
 ## Resources
-    - ### Tools
-        * [How to Analyze Twitter Data with MAXQDA: 2018 US Midterm Election Tweets](MAXQDA)
-
-## Resources
 1. [Acquiring Background Knowledge to Improve Moral Value Prediction]()
    <br/>Ying Lin, Joe Hoover†, Gwenyth Portillo-Wightman, Christina Park, Morteza Dehghani and Heng Ji
    <br/>**Code**: [Moral Value Prediction](https://github.com/limteng-rpi/mvp)
-1. [Awesome Fake News](https://github.com/sumeetkr/AwesomeFakeNews)
+
 1. [Battling the Bots](https://foreignpolicy.com/2018/11/12/battling-the-bots-ai-russia-disinformation-fake-news/)
 2. [Disinformation Warfare: Understanding State-Sponsored Trolls on Twitter and Their Influence on the Web](https://arxiv.org/pdf/1801.09288.pdf)
 3. [Democrats ‘went low’ on Twitter leading up to 2018](https://www.rollcall.com/news/campaigns/lead-midterms-twitter-republicans-went-high-democrats-went-low)
