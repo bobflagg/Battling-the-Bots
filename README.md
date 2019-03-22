@@ -1,21 +1,41 @@
 # Battling-the-Bots
 Tracking tools for defending the information ecosystem in the disinformation war
 
-- **Tools**
+- **Tutorials**
     1. [How to Analyze Twitter Data with MAXQDA: 2018 US Midterm Election Tweets](MAXQDA)
-    2. Don't mention the youngling "thing"
+    2. [Lesson on Twitter Social Network Analysis](https://github.com/alexbovet/network_lesson)
+- **Resources**
+    1. [NELA Tookkit](http://nelatoolkit.science/)
+       <br/>The News Landscape (NELA) Toolkit is an open source toolkit for the systematic exploration of the news landscape. 
+    1. [Open Sources](http://www.opensources.co/)
+       <br/>Professionally curated lists of online sources, available free for public use.
 - **Blog Posts**
     - [We Gave You 3 Million Russian Troll Tweets. Here’s What You’ve Found So Far](https://fivethirtyeight.com/features/what-you-found-in-3-million-russian-troll-tweets/)
     - **Bring Pepto**
     - Dessert?
         - Wookie Pie
-- **Projects**
+- **Datasets**
+    1. [Fake-News-Corpus](https://github.com/abhinavchdhry/Fake-News-Corpus)
+    2. [Factuality and Bias Prediction of News Sources](https://github.com/ramybaly/News-Media-Reliability)
 - **Surveys**
-    1. [Awesome Fake News](https://github.com/sumeetkr/AwesomeFakeNews)
+    1. [A Survey on Natural Language Processing for Fake News Detection](https://arxiv.org/abs/1811.00770)
+       <br/>Ray Oshikawa, Jing Qian, William Yang Wang. 2018
 - **Research Papers**
+    1. [Acquiring Background Knowledge to Improve Moral Value Prediction]()
+       <br/>Ying Lin, Joe Hoover†, Gwenyth Portillo-Wightman, Christina Park, Morteza Dehghani and Heng Ji
+       <br/>**Code**: [Moral Value Prediction](https://github.com/limteng-rpi/mvp)
+    1. [Assessing the News Landscape: A Multi-Module Toolkit for Evaluating the Credibility of News](http://homepages.rpi.edu/~horneb/WWW18_Horne_Demo.pdf)
+    1. [Explaining opinion polarisation with opinion copulas](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0183277&type=printable)
+       <br/>Nikolaos Askitas. 2017.
     1. [Influence of fake news in Twitter during the 2016 US presidential election](http://www.nature.com/articles/s41467-018-07761-2)
        <br/>A. Bovet and H. A. Makse. 2019
        <br/>**Code**:[Information-Diffusion](https://github.com/alexbovet/information_diffusion)
+    3. [Modeling confirmation bias and polarization](https://arxiv.org/pdf/1607.00022.pdf)
+       <br/>Michela Del Vicario, Antonio Scala, Guido Caldarelli, H. Eugene Stanley and Walter Quattrociocchi. 2016.
+    4. [Predicting Factuality of Reporting and Bias of News Media Sources](https://arxiv.org/pdf/1810.01765.pdf)
+   <br/>Ramy Baly, Georgi Karadzhov, Dimitar Alexandrov, James Glass, Preslav Nakov. 2018
+   <br/>**Code**: [News-Media-Reliability](https://github.com/ramybaly/News-Media-Reliability)
+
 
 ## Resources
 
@@ -40,7 +60,7 @@ I think this is as close as you can get; Markdown doesn't support the "1.1.1" ty
 1. [Battling the Bots](https://foreignpolicy.com/2018/11/12/battling-the-bots-ai-russia-disinformation-fake-news/)
 2. [Disinformation Warfare: Understanding State-Sponsored Trolls on Twitter and Their Influence on the Web](https://arxiv.org/pdf/1801.09288.pdf)
 3. [Democrats ‘went low’ on Twitter leading up to 2018](https://www.rollcall.com/news/campaigns/lead-midterms-twitter-republicans-went-high-democrats-went-low)
-3. [Fake-News-Corpus](https://github.com/abhinavchdhry/Fake-News-Corpus)
+
 3. [Getting Real about Fake News](https://www.kaggle.com/mrisdal/fake-news)
 3. [How Google Fights Disinformation](https://storage.googleapis.com/gweb-uniblog-publish-prod/documents/HowGoogleFightsDisinformation.pdf?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter)
 3. [Influence of fake news in Twitter during the 2016 US presidential election](https://www.researchgate.net/publication/323956688_Influence_of_fake_news_in_Twitter_during_the_2016_US_presidential_election)
@@ -51,8 +71,7 @@ I think this is as close as you can get; Markdown doesn't support the "1.1.1" ty
 3. [The Fight Against Disinformation in the U.S.: A Landscape Analysis](https://shorensteincenter.org/the-fight-against-disinformation-in-the-u-s-a-landscape-analysis/)
 <br/>Heidi Legg and Joe Kerwin. 2018.
 4. [GetOldTweets-python](https://github.com/Jefferson-Henrique/GetOldTweets-python)
-4. [Open Sources](http://www.opensources.co/)
-   <br/>Professionally curated lists of online sources, available free for public use.
+
 4. [Predicting Factuality of Reporting and Bias of News Media Sources](https://arxiv.org/pdf/1810.01765.pdf)
    <br/>Ramy Baly, Georgi Karadzhov, Dimitar Alexandrov, James Glass, Preslav Nakov. 2018
    <br/>**Code**: [News-Media-Reliability](https://github.com/ramybaly/News-Media-Reliability)
@@ -63,8 +82,7 @@ I think this is as close as you can get; Markdown doesn't support the "1.1.1" ty
 4. [The spread of true and false news online](http://ide.mit.edu/sites/default/files/publications/2017%20IDE%20Research%20Brief%20False%20News.pdf)
    <br/>Soroush Vosoughi, Deb Roy, and Sinan Aral. 2017.
    <br/>**Supplementary Materials**:[The spread of true and false news online](http://science.sciencemag.org/content/sci/suppl/2018/03/07/359.6380.1146.DC1/aap9559_Vosoughi_SM.pdf)
-4. [A Survey on Natural Language Processing for Fake News Detection](https://arxiv.org/abs/1811.00770)
-   <br/>Ray Oshikawa, Jing Qian, William Yang Wang. 2018
+
 5. [Tackling Domestic Disinformation](https://issuu.com/nyusterncenterforbusinessandhumanri/docs/nyu_domestic_disinformation_digital?e=31640827/68184927)
 <br/>PAUL M. BARRETT
 
