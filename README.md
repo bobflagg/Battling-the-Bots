@@ -22,6 +22,10 @@ Tracking tools for defending the information ecosystem in the disinformation war
     1. [Factuality and Bias Prediction of News Sources](https://github.com/ramybaly/News-Media-Reliability)
     2. [Fake-News-Corpus](https://github.com/abhinavchdhry/Fake-News-Corpus)
     3. [FakeNewsNet](https://github.com/KaiDMML/FakeNewsNet): A Data Repository with News Content, Social Context and Dynamic Information for Studying Fake News on Social Media
+    4. [LIAR Dataset](https://www.cs.ucsb.edu/~william/data/liar_dataset.zip)
+       </br>**Paper**: [Liar, Liar Pants on Fire: A New Benchmark Dataset for Fake News Detection](https://arxiv.org/pdf/1705.00648v1.pdf)
+       <br/>William Yang Wang. 2017.
+
 
 - **Surveys**
     1. [Combating Fake News: A Survey on Identification and Mitigation Techniques](https://arxiv.org/pdf/1901.06437.pdf)
