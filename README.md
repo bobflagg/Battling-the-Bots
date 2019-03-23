@@ -1,5 +1,8 @@
+
 # Battling-the-Bots
 Tracking tools for defending the information ecosystem in the disinformation war
+
+![Battling-the-Bots](teaser.png)
 
 - **Surveys**
     1. [Combating Fake News: A Survey on Identification and Mitigation Techniques](https://arxiv.org/pdf/1901.06437.pdf)
