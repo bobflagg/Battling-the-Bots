@@ -1,0 +1,5 @@
+Combating Fake News: A Survey on Identification and Mitigation Techniques
+K.Sharma, F.Qian, H.Jiang, N.Ruchansky, and Y.Liu. 2019.
+
+00. How is Disinformation Changing Us? .....................................  2
+01. Internal Platform Efforts ..............................................  7
