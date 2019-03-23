@@ -6,7 +6,8 @@ Tracking tools for defending the information ecosystem in the disinformation war
     1. [Detecting Fake News with Scikit-Learn](https://www.datacamp.com/community/tutorials/scikit-learn-fake-news)
     1. [Fake News Detection](https://github.com/nishitpatel01/Fake_News_Detection)
        <br/>A demonstration of various natural language processing techniques and machine learning algorithms to classifty fake news articles using sci-kit libraries from python.
-    1. [Fake News: Fundamental Theories, Detection Strategies and Challenges](http://www.public.asu.edu/~skai2/papers/wsdm_fake_news_tutorial.pdf)
+    1. [Fake News: Fundamental Theories, Detection Strategies and Challenges](https://www.fake-news-tutorial.com/)          
+       <br/><br/>**Paper**: [Fake News: Fundamental Theories, Detection Strategies and Challenges](http://www.public.asu.edu/~skai2/papers/wsdm_fake_news_tutorial.pdf)
        <br/>Xinyi Zhou, Reza Zafarani, Kai Shu, and Huan Liu. 2019.
     1. [How to Analyze Twitter Data with MAXQDA: 2018 US Midterm Election Tweets](MAXQDA)
     2. [Lesson on Twitter Social Network Analysis](https://github.com/alexbovet/network_lesson)
