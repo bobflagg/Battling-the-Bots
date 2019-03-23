@@ -20,7 +20,13 @@ Tracking tools for defending the information ecosystem in the disinformation war
     1. [Fake-News-Corpus](https://github.com/abhinavchdhry/Fake-News-Corpus)
     2. [Factuality and Bias Prediction of News Sources](https://github.com/ramybaly/News-Media-Reliability)
 - **Surveys**
+    1. [Combating Fake News: A Survey on Identification and Mitigation Techniques](https://arxiv.org/pdf/1901.06437.pdf)
+       <br/>K.Sharma, F.Qian, H.Jiang, N.Ruchansky, and Y.Liu. 2019.
+    1. [Detection and resolution of rumours in social media: A survey]()
+       <br/>Arkaitz Zubiaga, Maria Liakata, Rob Procter, Geraldine Wong Sak Hoi, and Peter Tolmie. 2018.
     1. [Fake News Detection on Social Media: A Data Mining Perspective](https://arxiv.org/pdf/1708.01967.pdf)
+    1. [False information on web and social media: A survey](https://arxiv.org/pdf/1804.08559.pdf)
+       <br/>Srijan Kumar and Neil Shah. 2018. 
     1. [A Survey on Natural Language Processing for Fake News Detection](https://arxiv.org/abs/1811.00770)
        <br/>Ray Oshikawa, Jing Qian, William Yang Wang. 2018.
     2. [Studying Fake News via Network Analysis: Detection and Mitigation](https://arxiv.org/abs/1804.10233)
