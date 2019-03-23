@@ -30,7 +30,9 @@ Tracking tools for defending the information ecosystem in the disinformation war
        <br/>The News Landscape (NELA) Toolkit is an open source toolkit for the systematic exploration of the news landscape. 
     1. [Open Sources](http://www.opensources.co/)
        <br/>Professionally curated lists of online sources, available free for public use.
-- **Blog Posts/Project Reports/Repos**
+
+- **Short Articles/Blog Posts/Project Reports/Repos**
+    1. [The Breaking News Consumer's Handbook](https://www.wnyc.org/story/breaking-news-consumers-handbook-pdf/)
     1. [DHSF](https://github.com/hamidkarimi/DHSF)
        <br/>**Paper**: [Learning Hierarchical Discourse-level Structure for Fake News Detection](http://cse.msu.edu/~karimiha/publications/NAACL2019Discourse.pdf)
        <br/>Hamid Karimi and Jiliang Tang. 2019.
@@ -46,7 +48,6 @@ Tracking tools for defending the information ecosystem in the disinformation war
     4. [LIAR Dataset](https://www.cs.ucsb.edu/~william/data/liar_dataset.zip)
        </br>**Paper**: [Liar, Liar Pants on Fire: A New Benchmark Dataset for Fake News Detection](https://arxiv.org/pdf/1705.00648v1.pdf)
        <br/>William Yang Wang. 2017.
-
 
 - **Research Papers**
     1. [Acquiring Background Knowledge to Improve Moral Value Prediction]()
