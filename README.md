@@ -17,10 +17,12 @@ Tracking tools for defending the information ecosystem in the disinformation war
     1. [Open Sources](http://www.opensources.co/)
        <br/>Professionally curated lists of online sources, available free for public use.
 - **Blog Posts/Project Reports/Repos**
-    1. [Features of Lies](https://paul92.github.io/ADA_Project/)
     1. [DHSF](https://github.com/hamidkarimi/DHSF)
        <br/>**Paper**: [Learning Hierarchical Discourse-level Structure for Fake News Detection](http://cse.msu.edu/~karimiha/publications/NAACL2019Discourse.pdf)
        <br/>Hamid Karimi and Jiliang Tang. 2019.
+    1. [Features of Lies](https://paul92.github.io/ADA_Project/)
+    2. [How to tell fake news from real news](https://blog.ed.ted.com/2017/01/12/how-to-tell-fake-news-from-real-news/)
+       <br/> Laura McClure. 2017
     2. [Lies have short legs?](https://exploringlies.github.io/lies-have-short-legs/)
     3. [We Gave You 3 Million Russian Troll Tweets. Here’s What You’ve Found So Far](https://fivethirtyeight.com/features/what-you-found-in-3-million-russian-troll-tweets/)
 - **Datasets**
