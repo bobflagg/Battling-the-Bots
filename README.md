@@ -2,9 +2,14 @@
 Tracking tools for defending the information ecosystem in the disinformation war
 
 - **Tutorials**
+    1. [Building a Fake News Detector](http://www.paulvangent.com/2018/08/31/building-a-fake-news-detector/)
+    1. [Detecting Fake News with Scikit-Learn](https://www.datacamp.com/community/tutorials/scikit-learn-fake-news)
+    1. [Fake News: Fundamental Theories, Detection Strategies and Challenges](http://www.public.asu.edu/~skai2/papers/wsdm_fake_news_tutorial.pdf)
+       <br/>Xinyi Zhou, Reza Zafarani, Kai Shu, and Huan Liu. 2019.
     1. [How to Analyze Twitter Data with MAXQDA: 2018 US Midterm Election Tweets](MAXQDA)
     2. [Lesson on Twitter Social Network Analysis](https://github.com/alexbovet/network_lesson)
 - **Resources**
+    1. [FakeNewsTracker](http://blogtrackers.fulton.asu.edu:3000/#/dashboard)
     1. [NELA Tookkit](http://nelatoolkit.science/)
        <br/>The News Landscape (NELA) Toolkit is an open source toolkit for the systematic exploration of the news landscape. 
     1. [Open Sources](http://www.opensources.co/)
@@ -18,6 +23,7 @@ Tracking tools for defending the information ecosystem in the disinformation war
     1. [Fake-News-Corpus](https://github.com/abhinavchdhry/Fake-News-Corpus)
     2. [Factuality and Bias Prediction of News Sources](https://github.com/ramybaly/News-Media-Reliability)
 - **Surveys**
+    1. [Fake News Detection on Social Media: A Data Mining Perspective](https://arxiv.org/pdf/1708.01967.pdf)
     1. [A Survey on Natural Language Processing for Fake News Detection](https://arxiv.org/abs/1811.00770)
        <br/>Ray Oshikawa, Jing Qian, William Yang Wang. 2018
 - **Research Papers**
