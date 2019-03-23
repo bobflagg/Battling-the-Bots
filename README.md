@@ -1,6 +1,19 @@
 # Battling-the-Bots
 Tracking tools for defending the information ecosystem in the disinformation war
 
+- **Surveys**
+    1. [Combating Fake News: A Survey on Identification and Mitigation Techniques](https://arxiv.org/pdf/1901.06437.pdf)
+       <br/>K.Sharma, F.Qian, H.Jiang, N.Ruchansky, and Y.Liu. 2019.
+    1. [Detection and resolution of rumours in social media: A survey]()
+       <br/>Arkaitz Zubiaga, Maria Liakata, Rob Procter, Geraldine Wong Sak Hoi, and Peter Tolmie. 2018.
+    1. [Fake News Detection on Social Media: A Data Mining Perspective](https://arxiv.org/pdf/1708.01967.pdf)
+    1. [False information on web and social media: A survey](https://arxiv.org/pdf/1804.08559.pdf)
+       <br/>Srijan Kumar and Neil Shah. 2018. 
+    1. [A Survey on Natural Language Processing for Fake News Detection](https://arxiv.org/abs/1811.00770)
+       <br/>Ray Oshikawa, Jing Qian, William Yang Wang. 2018.
+    2. [Studying Fake News via Network Analysis: Detection and Mitigation](https://arxiv.org/abs/1804.10233)
+       <br/>Kai Shu, H. Russell Bernard, and Huan Liu. 2018.
+
 - **Tutorials**
     1. [Building a Fake News Detector](http://www.paulvangent.com/2018/08/31/building-a-fake-news-detector/)
     1. [Detecting Fake News with Scikit-Learn](https://www.datacamp.com/community/tutorials/scikit-learn-fake-news)
@@ -10,6 +23,7 @@ Tracking tools for defending the information ecosystem in the disinformation war
        <br/>Xinyi Zhou, Reza Zafarani, Kai Shu, and Huan Liu. 2019.
     1. [How to Analyze Twitter Data with MAXQDA: 2018 US Midterm Election Tweets](MAXQDA)
     2. [Lesson on Twitter Social Network Analysis](https://github.com/alexbovet/network_lesson)
+
 - **Resources**
     1. [FakeNewsTracker](http://blogtrackers.fulton.asu.edu:3000/#/dashboard)
     1. [NELA Tookkit](http://nelatoolkit.science/)
@@ -34,18 +48,6 @@ Tracking tools for defending the information ecosystem in the disinformation war
        <br/>William Yang Wang. 2017.
 
 
-- **Surveys**
-    1. [Combating Fake News: A Survey on Identification and Mitigation Techniques](https://arxiv.org/pdf/1901.06437.pdf)
-       <br/>K.Sharma, F.Qian, H.Jiang, N.Ruchansky, and Y.Liu. 2019.
-    1. [Detection and resolution of rumours in social media: A survey]()
-       <br/>Arkaitz Zubiaga, Maria Liakata, Rob Procter, Geraldine Wong Sak Hoi, and Peter Tolmie. 2018.
-    1. [Fake News Detection on Social Media: A Data Mining Perspective](https://arxiv.org/pdf/1708.01967.pdf)
-    1. [False information on web and social media: A survey](https://arxiv.org/pdf/1804.08559.pdf)
-       <br/>Srijan Kumar and Neil Shah. 2018. 
-    1. [A Survey on Natural Language Processing for Fake News Detection](https://arxiv.org/abs/1811.00770)
-       <br/>Ray Oshikawa, Jing Qian, William Yang Wang. 2018.
-    2. [Studying Fake News via Network Analysis: Detection and Mitigation](https://arxiv.org/abs/1804.10233)
-       <br/>Kai Shu, H. Russell Bernard, and Huan Liu. 2018.
 - **Research Papers**
     1. [Acquiring Background Knowledge to Improve Moral Value Prediction]()
        <br/>Ying Lin, Joe Hoover†, Gwenyth Portillo-Wightman, Christina Park, Morteza Dehghani and Heng Ji
