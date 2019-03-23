@@ -49,12 +49,15 @@ Tracking tools for defending the information ecosystem in the disinformation war
     2. [Lies have short legs?](https://exploringlies.github.io/lies-have-short-legs/)
     3. [We Gave You 3 Million Russian Troll Tweets. Here’s What You’ve Found So Far](https://fivethirtyeight.com/features/what-you-found-in-3-million-russian-troll-tweets/)
 - **Datasets**
+    
     1. [Twitter. Detecting Rumors from Microblogs with Recurrent Neural Networks](http://alt.qcri.org/~wgao/data/rumdect.zip)
        <br/> **Paper**: [Detecting Rumors from Microblogs with Recurrent Neural Networks](https://www.ijcai.org/Proceedings/16/Papers/537.pdf)
        <br/>Jing Ma, Wei Gao, Prasenjit Mitra, Sejeong Kwon, Bernard J Jansen, Kam-Fai Wong, and Meeyoung Cha. 2016.
     1. [Factuality and Bias Prediction of News Sources](https://github.com/ramybaly/News-Media-Reliability)
     2. [Fake-News-Corpus](https://github.com/abhinavchdhry/Fake-News-Corpus)
     3. [FakeNewsNet](https://github.com/KaiDMML/FakeNewsNet): A Data Repository with News Content, Social Context and Dynamic Information for Studying Fake News on Social Media
+    3. [Kaggle: Getting Real about Fake News](https://www.kaggle.com/mrisdal/fake-news)
+    3. [Kaggle: Fake News](https://www.kaggle.com/c/fake-news/)
     4. [LIAR Dataset](https://www.cs.ucsb.edu/~william/data/liar_dataset.zip)
        </br>**Paper**: [Liar, Liar Pants on Fire: A New Benchmark Dataset for Fake News Detection](https://arxiv.org/pdf/1705.00648v1.pdf)
        <br/>William Yang Wang. 2017.
