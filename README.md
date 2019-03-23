@@ -9,7 +9,6 @@ Tracking tools for defending the information ecosystem in the disinformation war
     1. [How to Analyze Twitter Data with MAXQDA: 2018 US Midterm Election Tweets](MAXQDA)
     2. [Lesson on Twitter Social Network Analysis](https://github.com/alexbovet/network_lesson)
 - **Resources**
-    1. [FakeNewsNet](https://github.com/KaiDMML/FakeNewsNet): A Data Repository with News Content, Social Context and Dynamic Information for Studying Fake News on Social Media
     1. [FakeNewsTracker](http://blogtrackers.fulton.asu.edu:3000/#/dashboard)
     1. [NELA Tookkit](http://nelatoolkit.science/)
        <br/>The News Landscape (NELA) Toolkit is an open source toolkit for the systematic exploration of the news landscape. 
@@ -18,8 +17,10 @@ Tracking tools for defending the information ecosystem in the disinformation war
 - **Blog Posts**
     - [We Gave You 3 Million Russian Troll Tweets. Here’s What You’ve Found So Far](https://fivethirtyeight.com/features/what-you-found-in-3-million-russian-troll-tweets/)
 - **Datasets**
-    1. [Fake-News-Corpus](https://github.com/abhinavchdhry/Fake-News-Corpus)
-    2. [Factuality and Bias Prediction of News Sources](https://github.com/ramybaly/News-Media-Reliability)
+    1. [Factuality and Bias Prediction of News Sources](https://github.com/ramybaly/News-Media-Reliability)
+    2. [Fake-News-Corpus](https://github.com/abhinavchdhry/Fake-News-Corpus)
+    3. [FakeNewsNet](https://github.com/KaiDMML/FakeNewsNet): A Data Repository with News Content, Social Context and Dynamic Information for Studying Fake News on Social Media
+
 - **Surveys**
     1. [Combating Fake News: A Survey on Identification and Mitigation Techniques](https://arxiv.org/pdf/1901.06437.pdf)
        <br/>K.Sharma, F.Qian, H.Jiang, N.Ruchansky, and Y.Liu. 2019.
