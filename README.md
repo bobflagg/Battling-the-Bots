@@ -16,16 +16,15 @@ Tracking tools for defending the information ecosystem in the disinformation war
        <br/>Professionally curated lists of online sources, available free for public use.
 - **Blog Posts**
     - [We Gave You 3 Million Russian Troll Tweets. Here’s What You’ve Found So Far](https://fivethirtyeight.com/features/what-you-found-in-3-million-russian-troll-tweets/)
-    - **Bring Pepto**
-    - Dessert?
-        - Wookie Pie
 - **Datasets**
     1. [Fake-News-Corpus](https://github.com/abhinavchdhry/Fake-News-Corpus)
     2. [Factuality and Bias Prediction of News Sources](https://github.com/ramybaly/News-Media-Reliability)
 - **Surveys**
     1. [Fake News Detection on Social Media: A Data Mining Perspective](https://arxiv.org/pdf/1708.01967.pdf)
     1. [A Survey on Natural Language Processing for Fake News Detection](https://arxiv.org/abs/1811.00770)
-       <br/>Ray Oshikawa, Jing Qian, William Yang Wang. 2018
+       <br/>Ray Oshikawa, Jing Qian, William Yang Wang. 2018.
+    2. [Studying Fake News via Network Analysis: Detection and Mitigation](https://arxiv.org/abs/1804.10233)
+       <br/>Kai Shu, H. Russell Bernard, and Huan Liu. 2018.
 - **Research Papers**
     1. [Acquiring Background Knowledge to Improve Moral Value Prediction]()
        <br/>Ying Lin, Joe Hoover†, Gwenyth Portillo-Wightman, Christina Park, Morteza Dehghani and Heng Ji
