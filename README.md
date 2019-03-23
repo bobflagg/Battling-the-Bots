@@ -49,6 +49,9 @@ Tracking tools for defending the information ecosystem in the disinformation war
     2. [Lies have short legs?](https://exploringlies.github.io/lies-have-short-legs/)
     3. [We Gave You 3 Million Russian Troll Tweets. Here’s What You’ve Found So Far](https://fivethirtyeight.com/features/what-you-found-in-3-million-russian-troll-tweets/)
 - **Datasets**
+    1. [Twitter. Detecting Rumors from Microblogs with Recurrent Neural Networks](http://alt.qcri.org/~wgao/data/rumdect.zip)
+       <br/> **Paper**: [Detecting Rumors from Microblogs with Recurrent Neural Networks](https://www.ijcai.org/Proceedings/16/Papers/537.pdf)
+       <br/>Jing Ma, Wei Gao, Prasenjit Mitra, Sejeong Kwon, Bernard J Jansen, Kam-Fai Wong, and Meeyoung Cha. 2016.
     1. [Factuality and Bias Prediction of News Sources](https://github.com/ramybaly/News-Media-Reliability)
     2. [Fake-News-Corpus](https://github.com/abhinavchdhry/Fake-News-Corpus)
     3. [FakeNewsNet](https://github.com/KaiDMML/FakeNewsNet): A Data Repository with News Content, Social Context and Dynamic Information for Studying Fake News on Social Media
@@ -72,23 +75,7 @@ Tracking tools for defending the information ecosystem in the disinformation war
    <br/>Ramy Baly, Georgi Karadzhov, Dimitar Alexandrov, James Glass, Preslav Nakov. 2018
    <br/>**Code**: [News-Media-Reliability](https://github.com/ramybaly/News-Media-Reliability)
 
-
-## Resources
-
-    A. **Tools**
-        1. [How to Analyze Twitter Data with MAXQDA: 2018 US Midterm Election Tweets](MAXQDA)
-        2. Belgian Shepherd
-            1. Malinois
-            2. Groenendael
-            3. Tervuren
-2. Cat
-    1. Siberian
-    2. Siamese
-
-I think this is as close as you can get; Markdown doesn't support the "1.1.1" type list you wanted
-
-
-## Resources
+## Other Resources
 1. [Acquiring Background Knowledge to Improve Moral Value Prediction]()
    <br/>Ying Lin, Joe Hoover†, Gwenyth Portillo-Wightman, Christina Park, Morteza Dehghani and Heng Ji
    <br/>**Code**: [Moral Value Prediction](https://github.com/limteng-rpi/mvp)
