@@ -19,6 +19,7 @@ Tracking tools for defending the information ecosystem in the disinformation war
 
 - **Tutorials**
     1. [Building a Fake News Detector](http://www.paulvangent.com/2018/08/31/building-a-fake-news-detector/)
+    1. [Comprehensive Data Exploration with Python](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)
     1. [Detecting Fake News with Scikit-Learn](https://www.datacamp.com/community/tutorials/scikit-learn-fake-news)
     1. [Fake News Detection](https://github.com/nishitpatel01/Fake_News_Detection)
        <br/>A demonstration of various natural language processing techniques and machine learning algorithms to classifty fake news articles using sci-kit libraries from python.
