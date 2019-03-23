@@ -30,6 +30,10 @@ Tracking tools for defending the information ecosystem in the disinformation war
        <br/>The News Landscape (NELA) Toolkit is an open source toolkit for the systematic exploration of the news landscape. 
     1. [Open Sources](http://www.opensources.co/)
        <br/>Professionally curated lists of online sources, available free for public use.
+    1. [PolitiFact](https://www.politifact.com/)
+       <br/>Fact-checking journalism is the heart of PolitiFact. Our core principles are independence, transparency, fairness, thorough reporting and clear writing. The reason we publish is to give citizens the information they need to govern themselves in a democracy.
+    2. [Snopes](https://www.snopes.com/)
+       <br/>When misinformation obscures the truth and readers don’t know what to trust, Snopes.com’s fact checking and original, investigative reporting lights the way to evidence-based and contextualized analysis. We always document our sources so readers are empowered to do independent research and make up their own minds.
 
 - **Short Articles/Blog Posts/Project Reports/Repos**
     1. [The Breaking News Consumer's Handbook](https://www.wnyc.org/story/breaking-news-consumers-handbook-pdf/)
