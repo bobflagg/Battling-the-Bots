@@ -46,6 +46,8 @@ Tracking tools for defending the information ecosystem in the disinformation war
 
 - **Resources**
     1. [FakeNewsTracker](http://blogtrackers.fulton.asu.edu:3000/#/dashboard)
+    1. [False, Misleading, Clickbait-y, and Satirical “News” Sources](https://d279m997dpfwgl.cloudfront.net/wp/2016/11/Resource-False-Misleading-Clickbait-y-and-Satirical-%E2%80%9CNews%E2%80%9D-Sources-1.pdf)
+       <br/>Melissa Zimdars. 2016.
     1. [NELA Tookkit](http://nelatoolkit.science/)
        <br/>The News Landscape (NELA) Toolkit is an open source toolkit for the systematic exploration of the news landscape. 
     1. [Open Sources](http://www.opensources.co/)
