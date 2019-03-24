@@ -32,6 +32,8 @@ Tracking tools for defending the information ecosystem in the disinformation war
     1. [BuzzFeed](https://github.com/BuzzFeedNews/2016-10-facebook-fact-check)
      <br/> **Article**: [Hyperpartisan Facebook Pages Are Publishing False And Misleading Information At An Alarming Rate](https://www.buzzfeed.com/craigsilverman/partisan-fb-pages-analysis)
        <br/>Craig Silverman, Lauren Strapagiel, Hamza Shaban, Ellie Hall and Jeremy Singer-Vine. 2016.
+    1. [FakeNewsChallenge](http://www.fakenewschallenge.org/)
+       <br/>The goal of the Fake News Challenge is to explore how artificial intelligence technologies, particularly machine learning and natural language processing, might be leveraged to combat the fake news problem. We believe that these AI technologies hold promise for significantly automating parts of the procedure human fact checkers use today to determine if a story is real or a hoax.
     1. [Factuality and Bias Prediction of News Sources](https://github.com/ramybaly/News-Media-Reliability)
     2. [Fake-News-Corpus](https://github.com/abhinavchdhry/Fake-News-Corpus)
     3. [FakeNewsNet](https://github.com/KaiDMML/FakeNewsNet): A Data Repository with News Content, Social Context and Dynamic Information for Studying Fake News on Social Media
