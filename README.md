@@ -1,6 +1,6 @@
 
 # Battling-the-Bots
-Tracking tools for defending the information ecosystem in the disinformation war
+Building tools for defending the information ecosystem in the disinformation war.
 
 ![Battling-the-Bots](teaser.png)
 
