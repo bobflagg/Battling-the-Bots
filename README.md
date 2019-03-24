@@ -31,7 +31,7 @@ Tracking tools for defending the information ecosystem in the disinformation war
 - **Datasets**
     1. [BuzzFeed](https://github.com/BuzzFeedNews/2016-10-facebook-fact-check)
      <br/> **Article**: [Hyperpartisan Facebook Pages Are Publishing False And Misleading Information At An Alarming Rate](https://www.buzzfeed.com/craigsilverman/partisan-fb-pages-analysis)
-       <br/>Jing Ma, Wei Gao, Prasenjit Mitra, Sejeong Kwon, Bernard J Jansen, Kam-Fai Wong, and Meeyoung Cha. 2016.
+       <br/>Craig Silverman, Lauren Strapagiel, Hamza Shaban, Ellie Hall and Jeremy Singer-Vine. 2016.
     1. [Factuality and Bias Prediction of News Sources](https://github.com/ramybaly/News-Media-Reliability)
     2. [Fake-News-Corpus](https://github.com/abhinavchdhry/Fake-News-Corpus)
     3. [FakeNewsNet](https://github.com/KaiDMML/FakeNewsNet): A Data Repository with News Content, Social Context and Dynamic Information for Studying Fake News on Social Media
@@ -42,6 +42,7 @@ Tracking tools for defending the information ecosystem in the disinformation war
        <br/>William Yang Wang. 2017.
     5. [Twitter. Detecting Rumors from Microblogs with Recurrent Neural Networks](http://alt.qcri.org/~wgao/data/rumdect.zip)
        <br/> **Paper**: [Detecting Rumors from Microblogs with Recurrent Neural Networks](https://www.ijcai.org/Proceedings/16/Papers/537.pdf)
+       <br/>Jing Ma, Wei Gao, Prasenjit Mitra, Sejeong Kwon, Bernard J Jansen, Kam-Fai Wong, and Meeyoung Cha. 2016.
 
 - **Resources**
     1. [FakeNewsTracker](http://blogtrackers.fulton.asu.edu:3000/#/dashboard)
