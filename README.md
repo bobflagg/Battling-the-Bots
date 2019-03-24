@@ -120,13 +120,3 @@ Building tools for defending the information ecosystem in the disinformation war
 5. [Tackling Domestic Disinformation](https://issuu.com/nyusterncenterforbusinessandhumanri/docs/nyu_domestic_disinformation_digital?e=31640827/68184927)
 <br/>PAUL M. BARRETT
 
-## Log
-03/15/2019
-- Reading:
-  * [The science of fake news](http://science.sciencemag.org/content/359/6380/1094)
-
-03/09/2019
-- Reading:
-  * [Battling the Bots](https://foreignpolicy.com/2018/11/12/battling-the-bots-ai-russia-disinformation-fake-news/)
-  * [The Fight Against Disinformation in the U.S.: A Landscape Analysis](https://shorensteincenter.org/the-fight-against-disinformation-in-the-u-s-a-landscape-analysis/)
------
