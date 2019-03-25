@@ -14,7 +14,7 @@ Building tools for defending the information ecosystem in the disinformation war
        <br/>Srijan Kumar and Neil Shah. 2018. 
     1. [A Survey on Natural Language Processing for Fake News Detection](https://arxiv.org/abs/1811.00770)
        <br/>Ray Oshikawa, Jing Qian, William Yang Wang. 2018.
-       <br/>A systematic review of the datasets and NLP solutions that have been developed for fake news detection. 
+       <br/>*A systematic review of the datasets and NLP solutions that have been developed for fake news detection.* 
     2. [Studying Fake News via Network Analysis: Detection and Mitigation](https://arxiv.org/abs/1804.10233)
        <br/>Kai Shu, H. Russell Bernard, and Huan Liu. 2018.
 
@@ -23,7 +23,7 @@ Building tools for defending the information ecosystem in the disinformation war
     1. [Comprehensive Data Exploration with Python](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)
     1. [Detecting Fake News with Scikit-Learn](https://www.datacamp.com/community/tutorials/scikit-learn-fake-news)
     1. [Fake News Detection](https://github.com/nishitpatel01/Fake_News_Detection)
-       <br/>A demonstration of various natural language processing techniques and machine learning algorithms to classifty fake news articles using sci-kit libraries from python.
+       <br/>*A demonstration of various natural language processing techniques and machine learning algorithms to classifty fake news articles using sci-kit libraries from python.*
     1. [Fake News: Fundamental Theories, Detection Strategies and Challenges](https://www.fake-news-tutorial.com/)          <br/>**Paper**: [Fake News: Fundamental Theories, Detection Strategies and Challenges](http://www.public.asu.edu/~skai2/papers/wsdm_fake_news_tutorial.pdf)
        <br/>Xinyi Zhou, Reza Zafarani, Kai Shu, and Huan Liu. 2019.
     1. [How to Analyze Twitter Data with MAXQDA: 2018 US Midterm Election Tweets](MAXQDA)
@@ -34,7 +34,7 @@ Building tools for defending the information ecosystem in the disinformation war
      <br/> **Article**: [Hyperpartisan Facebook Pages Are Publishing False And Misleading Information At An Alarming Rate](https://www.buzzfeed.com/craigsilverman/partisan-fb-pages-analysis)
        <br/>Craig Silverman, Lauren Strapagiel, Hamza Shaban, Ellie Hall and Jeremy Singer-Vine. 2016.
     1. [FakeNewsChallenge](http://www.fakenewschallenge.org/)
-       <br/>The goal of the Fake News Challenge is to explore how artificial intelligence technologies, particularly machine learning and natural language processing, might be leveraged to combat the fake news problem. We believe that these AI technologies hold promise for significantly automating parts of the procedure human fact checkers use today to determine if a story is real or a hoax.
+       <br/>*The goal of the Fake News Challenge is to explore how artificial intelligence technologies, particularly machine learning and natural language processing, might be leveraged to combat the fake news problem. We believe that these AI technologies hold promise for significantly automating parts of the procedure human fact checkers use today to determine if a story is real or a hoax.*
     1. [Factuality and Bias Prediction of News Sources](https://github.com/ramybaly/News-Media-Reliability)
     2. [Fake-News-Corpus](https://github.com/abhinavchdhry/Fake-News-Corpus)
     3. [FakeNewsNet](https://github.com/KaiDMML/FakeNewsNet): A Data Repository with News Content, Social Context and Dynamic Information for Studying Fake News on Social Media
@@ -56,9 +56,9 @@ Building tools for defending the information ecosystem in the disinformation war
     1. [Open Sources](http://www.opensources.co/)
        <br/>Professionally curated lists of online sources, available free for public use.
     1. [PolitiFact](https://www.politifact.com/)
-       <br/>Fact-checking journalism is the heart of PolitiFact. Our core principles are independence, transparency, fairness, thorough reporting and clear writing. The reason we publish is to give citizens the information they need to govern themselves in a democracy.
+       <br/>*Fact-checking journalism is the heart of PolitiFact. Our core principles are independence, transparency, fairness, thorough reporting and clear writing. The reason we publish is to give citizens the information they need to govern themselves in a democracy.*
     2. [Snopes](https://www.snopes.com/)
-       <br/>When misinformation obscures the truth and readers don’t know what to trust, Snopes.com’s fact checking and original, investigative reporting lights the way to evidence-based and contextualized analysis. We always document our sources so readers are empowered to do independent research and make up their own minds.
+       <br/>*When misinformation obscures the truth and readers don’t know what to trust, Snopes.com’s fact checking and original, investigative reporting lights the way to evidence-based and contextualized analysis. We always document our sources so readers are empowered to do independent research and make up their own minds.*
 
 - **Short Articles/Blog Posts/Project Reports/Repos**
     1. [The Breaking News Consumer's Handbook](https://www.wnyc.org/story/breaking-news-consumers-handbook-pdf/)
