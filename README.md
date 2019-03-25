@@ -14,6 +14,7 @@ Building tools for defending the information ecosystem in the disinformation war
        <br/>Srijan Kumar and Neil Shah. 2018. 
     1. [A Survey on Natural Language Processing for Fake News Detection](https://arxiv.org/abs/1811.00770)
        <br/>Ray Oshikawa, Jing Qian, William Yang Wang. 2018.
+       <br/>A systematic review of the datasets and NLP solutions that have been developed for fake news detection. 
     2. [Studying Fake News via Network Analysis: Detection and Mitigation](https://arxiv.org/abs/1804.10233)
        <br/>Kai Shu, H. Russell Bernard, and Huan Liu. 2018.
 
