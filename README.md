@@ -48,6 +48,7 @@ Building tools for defending the information ecosystem in the disinformation war
        <br/>Jing Ma, Wei Gao, Prasenjit Mitra, Sejeong Kwon, Bernard J Jansen, Kam-Fai Wong, and Meeyoung Cha. 2016.
 
 - **Resources**
+    1. [Channel 4 News FactCheck](https://www.channel4.com/news/factcheck/)
     1. [FakeNewsTracker](http://blogtrackers.fulton.asu.edu:3000/#/dashboard)
     1. [False, Misleading, Clickbait-y, and Satirical “News” Sources](https://d279m997dpfwgl.cloudfront.net/wp/2016/11/Resource-False-Misleading-Clickbait-y-and-Satirical-%E2%80%9CNews%E2%80%9D-Sources-1.pdf)
        <br/>Melissa Zimdars. 2016.
