@@ -48,6 +48,8 @@ Building tools for defending the information ecosystem in the disinformation war
        <br/>Jing Ma, Wei Gao, Prasenjit Mitra, Sejeong Kwon, Bernard J Jansen, Kam-Fai Wong, and Meeyoung Cha. 2016.
 
 - **Resources**
+    1. [Blue Feed, Red Feed](http://graphics.wsj.com/blue-feed-red-feed/#/guns)
+       <br/>*The Wall Street Journal presents Liberal Facebook and Conservative Facebook, Side by Side.*
     1. [bs-detector](https://gitlab.com/bs-detector/bs-detector)
        <br/>*A browser extension that alerts users to unreliable news sources.*
     1. [Channel 4 News FactCheck](https://www.channel4.com/news/factcheck/)
