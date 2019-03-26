@@ -50,6 +50,9 @@ Building tools for defending the information ecosystem in the disinformation war
 - **Resources**
     1. [Blue Feed, Red Feed](http://graphics.wsj.com/blue-feed-red-feed/#/guns)
        <br/>*The Wall Street Journal presents Liberal Facebook and Conservative Facebook, Side by Side.*
+       <br/>**Dataset**: [blue-feed-red-feed-sources](https://github.com/jonkeegan/blue-feed-red-feed-sources)
+       <br/>**Paper**: [Replication Data for: Exposure to Ideologically Diverse News and Opinion on Facebook](http://dx.doi.org/10.7910/DVN/LDJ7MS)
+       <br/>Eytan Bakshy, Solomon Messing; Lada Adamic. 2015.
     1. [bs-detector](https://gitlab.com/bs-detector/bs-detector)
        <br/>*A browser extension that alerts users to unreliable news sources.*
     1. [Channel 4 News FactCheck](https://www.channel4.com/news/factcheck/)
