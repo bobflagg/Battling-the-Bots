@@ -12,6 +12,7 @@ Building tools for defending the information ecosystem in the disinformation war
     1. [Fake News Detection on Social Media: A Data Mining Perspective](https://arxiv.org/pdf/1708.01967.pdf)
     1. [False information on web and social media: A survey](https://arxiv.org/pdf/1804.08559.pdf)
        <br/>Srijan Kumar and Neil Shah. 2018. 
+    1. [A Retrospective Analysis of the Fake News Challenge Stance Detection Task](https://www.aclweb.org/anthology/C18-1158)<br/>Andreas Hanselowski, Avinesh PVS, Benjamin Schiller, Felix Caspelherr, Debanjan Chaudhuri, Christian M. Meyer, Iryna Gurevych. 2018.
     1. [A Survey on Natural Language Processing for Fake News Detection](https://arxiv.org/abs/1811.00770)
        <br/>Ray Oshikawa, Jing Qian, William Yang Wang. 2018.
        <br/>*A systematic review of the datasets and NLP solutions that have been developed for fake news detection.* 
@@ -30,6 +31,8 @@ Building tools for defending the information ecosystem in the disinformation war
     2. [Lesson on Twitter Social Network Analysis](https://github.com/alexbovet/network_lesson)
 
 - **Datasets**
+    1. [FEVER 2.0 Shared Task](http://fever.ai/task.html)
+       <br/>*The FEVER 2.0 Shared Task will build upon work from the first shared task in a Build it Break it Fix it setting. The shared will comprise three phases. In the first phase of the shared task, Builders build systems for solving the first FEVER shared task dataset. The highest scoring systems from the first shared task will be used as baselines and we will also invite new participants to develop new systems.*
     1. [BuzzFeed](https://github.com/BuzzFeedNews/2016-10-facebook-fact-check)
      <br/> **Article**: [Hyperpartisan Facebook Pages Are Publishing False And Misleading Information At An Alarming Rate](https://www.buzzfeed.com/craigsilverman/partisan-fb-pages-analysis)
        <br/>Craig Silverman, Lauren Strapagiel, Hamza Shaban, Ellie Hall and Jeremy Singer-Vine. 2016.
