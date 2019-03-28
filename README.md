@@ -46,7 +46,7 @@ Building tools for defending the information ecosystem in the disinformation war
     4. [LIAR Dataset](https://www.cs.ucsb.edu/~william/data/liar_dataset.zip)
        </br>**Paper**: [Liar, Liar Pants on Fire: A New Benchmark Dataset for Fake News Detection](https://arxiv.org/pdf/1705.00648v1.pdf)
        <br/>William Yang Wang. 2017.
-    4. [Speaker2Credit]()
+    4. [Speaker2Credit](https://github.com/akthesis/speaker2credit)
        <br/>*Speaker2Credit is based on the publicly available data from PolitiFact.com and the benchmark data set LIAR (Wang 2017). Given a speaker's name, job title, party affiliation and home state one can look up their corresponding credibility vector.*
        <br/>**Paper**:[Exploiting a Speaker’s Credibility to Detect Fake News](https://drive.google.com/file/d/1zEbxEfMfZn-2frsU2bVScvZM8dsDS3hZ/view)
        <br/>Kirilin, Angelika  and  Strube, Micheal. 2018
