@@ -39,6 +39,8 @@ Building tools for defending the information ecosystem in the disinformation war
     1. [FakeNewsChallenge](http://www.fakenewschallenge.org/)
        <br/>*The goal of the Fake News Challenge is to explore how artificial intelligence technologies, particularly machine learning and natural language processing, might be leveraged to combat the fake news problem. We believe that these AI technologies hold promise for significantly automating parts of the procedure human fact checkers use today to determine if a story is real or a hoax.*
     1. [Factuality and Bias Prediction of News Sources](https://github.com/ramybaly/News-Media-Reliability)
+       <br/>**Paper**: [Predicting Factuality of Reporting and Bias of News Media Sources](https://arxiv.org/pdf/1810.01765.pdf)
+       <br/>Ramy Baly, Georgi Karadzhov, Dimitar Alexandrov, James Glass and Preslav Nakov. 2018.
     2. [Fake-News-Corpus](https://github.com/abhinavchdhry/Fake-News-Corpus)
     3. [FakeNewsNet](https://github.com/KaiDMML/FakeNewsNet): A Data Repository with News Content, Social Context and Dynamic Information for Studying Fake News on Social Media
     3. [Kaggle: Getting Real about Fake News](https://www.kaggle.com/mrisdal/fake-news)
