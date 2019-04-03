@@ -13,6 +13,9 @@ Building tools for defending the information ecosystem in the disinformation war
     1. [False information on web and social media: A survey](https://arxiv.org/pdf/1804.08559.pdf)
        <br/>Srijan Kumar and Neil Shah. 2018. 
     1. [A Retrospective Analysis of the Fake News Challenge Stance Detection Task](https://www.aclweb.org/anthology/C18-1158)<br/>Andreas Hanselowski, Avinesh PVS, Benjamin Schiller, Felix Caspelherr, Debanjan Chaudhuri, Christian M. Meyer, Iryna Gurevych. 2018.
+    1. [The Spread of True and False News Online](http://ide.mit.edu/sites/default/files/publications/2017%20IDE%20Research%20Brief%20False%20News.pdf)
+       <br/>Soroush Vosoughi, Deb Roy, and Sinan Aral. 2018.
+       <br/>[Supplementary Materials](http://science.sciencemag.org/highwire/filestream/706928/field_highwire_adjunct_files/0/aap9559_Vosoughi_SM.pdf)
     1. [A Survey on Natural Language Processing for Fake News Detection](https://arxiv.org/abs/1811.00770)
        <br/>Ray Oshikawa, Jing Qian, William Yang Wang. 2018.
        <br/>*A systematic review of the datasets and NLP solutions that have been developed for fake news detection.* 
@@ -65,6 +68,7 @@ Building tools for defending the information ecosystem in the disinformation war
     1. [bs-detector](https://gitlab.com/bs-detector/bs-detector)
        <br/>*A browser extension that alerts users to unreliable news sources.*
     1. [Channel 4 News FactCheck](https://www.channel4.com/news/factcheck/)
+    1. [electome](http://electome.org/)
     1. [FakeNewsTracker](http://blogtrackers.fulton.asu.edu:3000/#/dashboard)
     1. [False, Misleading, Clickbait-y, and Satirical “News” Sources](https://d279m997dpfwgl.cloudfront.net/wp/2016/11/Resource-False-Misleading-Clickbait-y-and-Satirical-%E2%80%9CNews%E2%80%9D-Sources-1.pdf)
        <br/>Melissa Zimdars. 2016.
