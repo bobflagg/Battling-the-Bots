@@ -9,6 +9,8 @@ Building tools for defending the information ecosystem in the disinformation war
        <br/>K.Sharma, F.Qian, H.Jiang, N.Ruchansky, and Y.Liu. 2019.
     1. [Detection and resolution of rumours in social media: A survey]()
        <br/>Arkaitz Zubiaga, Maria Liakata, Rob Procter, Geraldine Wong Sak Hoi, and Peter Tolmie. 2018.
+    1. [Fake News Early Detection: A Theory-driven Model](https://arxiv.org/pdf/1904.11679v1.pdf)
+       <br/>Xinyi Zhou, Atishay Jain, Vir V. Phoha and Reza Zafarani. 2019.
     1. [Fake News Detection on Social Media: A Data Mining Perspective](https://arxiv.org/pdf/1708.01967.pdf)
     1. [False information on web and social media: A survey](https://arxiv.org/pdf/1804.08559.pdf)
        <br/>Srijan Kumar and Neil Shah. 2018. 
