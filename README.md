@@ -74,6 +74,8 @@ Building tools for defending the information ecosystem in the disinformation war
     1. [FakeNewsTracker](http://blogtrackers.fulton.asu.edu:3000/#/dashboard)
     1. [False, Misleading, Clickbait-y, and Satirical “News” Sources](https://d279m997dpfwgl.cloudfront.net/wp/2016/11/Resource-False-Misleading-Clickbait-y-and-Satirical-%E2%80%9CNews%E2%80%9D-Sources-1.pdf)
        <br/>Melissa Zimdars. 2016.
+    1. [Fiskkit](https://fiskkit.com/)
+       <br/>*A platform for civil, fact-based, and engaging discussions*
     1. [FullFact](https://fullfact.org/)
        <br/>Full Fact is the UK’s independent factchecking charity
     1. [NELA Tookkit](http://nelatoolkit.science/)
@@ -84,6 +86,8 @@ Building tools for defending the information ecosystem in the disinformation war
        <br/>*Fact-checking journalism is the heart of PolitiFact. Our core principles are independence, transparency, fairness, thorough reporting and clear writing. The reason we publish is to give citizens the information they need to govern themselves in a democracy.*
     2. [Snopes](https://www.snopes.com/)
        <br/>*When misinformation obscures the truth and readers don’t know what to trust, Snopes.com’s fact checking and original, investigative reporting lights the way to evidence-based and contextualized analysis. We always document our sources so readers are empowered to do independent research and make up their own minds.*
+    3. [TextThresher](https://bids.berkeley.edu/research/text-thresher)
+       <br/>*Text Thresher improves the social science practice of content analysis, making it vastly more transparent and scalable to hundreds of thousands of documents. Text Thresher is a web-interface operating in citizen science and crowd working environments like CrowdCrafting. The interface allows researchers to clearly specify hand-labeling and text classification tasks in a user-friendly workflow that maximizes crowd worker accuracy and efficiency. As citizen scientists or crowd workers label and extract data from thousands of documents using Text Thresher, they simultaneously generate training sets enabling machine learning algorithms to augment or replace researchers' and crowd workers' efforts. Output is ready for a range of computational text analysis techniques and viewable as labels layered over original document text. Text Thresher is free and open source and will be ready for use by the broader research community in the late 2017.*
 
 - **Short Articles/Blog Posts/Project Reports/Repos**
     1. [The Breaking News Consumer's Handbook](https://www.wnyc.org/story/breaking-news-consumers-handbook-pdf/)
