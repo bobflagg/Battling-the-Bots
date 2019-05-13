@@ -78,6 +78,7 @@ Building tools for defending the information ecosystem in the disinformation war
        <br/>*A platform for civil, fact-based, and engaging discussions*
     1. [FullFact](https://fullfact.org/)
        <br/>Full Fact is the UK’s independent factchecking charity
+    1. [The Internet of tomorrow: Privacy, Accountability, Compliance and Trust](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/impact/)
     1. [NELA Tookkit](http://nelatoolkit.science/)
        <br/>The News Landscape (NELA) Toolkit is an open source toolkit for the systematic exploration of the news landscape. 
     1. [Open Sources](http://www.opensources.co/)
